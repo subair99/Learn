@@ -1,0 +1,90 @@
+
+git status
+git add .
+git commit -m "updated Project Notes"
+git push
+
+
+GO to GitHub:
+Create new repository
+
+
+Go to Git CMD:
+git init
+git remote add origin https://github.com/subair99/Project_Notes.git
+git branch -M main
+
+
+GO to GitHub:
+create README.md
+create .gitignore and choose python
+create LICENCE and choose Apache
+
+
+Go to Git CMD:
+git pull origin main --allow-unrelated-histories
+git add .
+git commit -m "added Project_Notes_001"
+git push -u origin main
+
+
+git status
+git add .
+git commit -m "added Project_Notes_012"
+git push -u origin main
+
+
+git status
+git add .
+git commit -m "added Project_Notes_012"
+git push -u origin main
+
+
+git status
+git add .
+git commit -m "updated Project_Notes_012"
+git push -u origin main
+	
+
+git status
+git add .
+git commit -m "updated README"
+git push -u origin main
+
+	
+
+git config --global user.email "subair9@gmail.com"
+git config --global user.name "subair99"
+
+
+git reset --hard HEAD
+
+ 
+cd C:\1-Docs\AI\Learn\Project_Learn\Project_Notes
+
+python application.py
+
+
+Project_Notes_012
+Complete note available at:
+https://github.com/subair99/Project_Notes/blob/main/Project_Notes_012.ipynb
+
+
+01. Project_Notes_001 - Apartment Prices in Mexico City
+02. Project_Notes_002 - Air Quality in India
+03. Project_Notes_003 - Earthquake Damage in Nepal
+04. Project_Notes_004 - Bankruptcy in Poland
+05. Project_Notes_005 - United States Small Business Owners
+06. Project_Notes_006 - New York City Airbnb
+07. Project_Notes_007 - New York City Airbnb Reload
+08. Project_Notes_008 - British Airways Customer Review
+09. Project_Notes_009 - Apex Trust Bank Credit Risk Assessment
+10. Project_Notes_010 - British Airways Customer Booking
+11. Project_Notes_011 - Forecasting Renewable Energy Generation
+12. Project_Notes_012 - Forecasting Renewable Energy Generation Reload
+
+
+
+conda update --all
+conda update -c conda-forge seaborn
+
