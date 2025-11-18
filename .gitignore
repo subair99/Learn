@@ -1,7 +1,5 @@
 # Address documents
-/zAddress-Project_Notes.txt
-/zAddress-Python_Notes.txt
-/zAddress-SQL_Notes.txt
+*.txt
 
 # pickle extensions
 *.pkl
