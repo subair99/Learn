@@ -1,5 +1,5 @@
 # Address documents
-*.txt
+*_Notes.txt
 
 # pickle extensions
 *.pkl
